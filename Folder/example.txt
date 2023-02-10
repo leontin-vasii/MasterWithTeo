@@ -1,7 +1,7 @@
-modified developer b
+here
 another line here
 modified developer a
-updated developer b
+and here
 updated developer a
 updated developer b
 changed developer a
