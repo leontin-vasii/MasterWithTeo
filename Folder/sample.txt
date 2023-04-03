@@ -7,7 +7,7 @@ modified developer a
 and here
 updated developer a
 updated developer b
-changed developer a
+changed developer a+b
 changed developer b
 updated developer a +b
-add
+add here
